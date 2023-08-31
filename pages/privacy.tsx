@@ -28,7 +28,7 @@ const privacyPage: NextPage = () => {
 
 
               <h2 id="gathering-info" className="mt-8 text-4xl font-bold">Gathering of Personally-Identifying Information</h2>
-              <p className="my-4 text-2xl">Certain users of <LinkInternal href="" title="James Sells NSB">JamesSellsNSB.com</LinkInternal> may choose to interact with <LinkInternal href="" title="James Sells NSB">JamesSellsNSB.com</LinkInternal> in ways that require <LinkInternal href="" title="James Sells NSB">JamesSellsNSB.com</LinkInternal> to gather personally-identifying information. The amount and type of information that <LinkInternal href="" title="James Sells NSB">JamesSellsNSB.com</LinkInternal> gathers depends on the nature of the interaction. <LinkInternal href="" title="James Sells NSB">JamesSellsNSB.com</LinkInternal> runs analytics to understand how you interact with the website which should continuously improve your gaming experience (e.g. identifying that a feature is too difficult for most users).</p>
+              <p className="my-4 text-2xl">Certain users of <LinkInternal href="" title="James Sells NSB">JamesSellsNSB.com</LinkInternal> may choose to interact with <LinkInternal href="" title="James Sells NSB">JamesSellsNSB.com</LinkInternal> in ways that require <LinkInternal href="" title="James Sells NSB">JamesSellsNSB.com</LinkInternal> to gather personally-identifying information. The amount and type of information that <LinkInternal href="" title="James Sells NSB">JamesSellsNSB.com</LinkInternal> gathers depends on the nature of the interaction. <LinkInternal href="" title="James Sells NSB">JamesSellsNSB.com</LinkInternal> runs analytics to understand how you interact with the website which should continuously improve your website experience (e.g. identifying that a feature is not working for most users).</p>
 
 
               <h2 id="security" className="mt-8 text-4xl font-bold">Security</h2>
@@ -55,7 +55,7 @@ const privacyPage: NextPage = () => {
 
               <h2 id="changes" className="mt-8 text-4xl font-bold">Privacy Policy Changes</h2>
               <p className="my-4 text-2xl">Although most changes to <LinkInternal href="" title="James Sells NSB">JamesSellsNSB.com</LinkInternal> are likely to be minor, James Cumiskey may change this Privacy Policy from time to time, and in James Cumiskey’s sole discretion. James Cumiskey encourages users to frequently check this page for any changes to this Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p>
-              <p className="my-4 text-2xl"><i>This Privacy Policy was last updated on August 29, 2023. Visit the <LinkExternal href="https://github.com/derek-perry/jamessellsnsb" title="View the website files for JamesSellsNSB on GitHub">website files on GitHub</LinkExternal> for version history.</i></p>
+              <p className="my-4 text-2xl"><i>This Privacy Policy was last updated on August 31, 2023. Visit the <LinkExternal href="https://github.com/derek-perry/jamessellsnsb" title="View the website files for JamesSellsNSB on GitHub">website files on GitHub</LinkExternal> for version history.</i></p>
 
 
               <h2 id="contact-info" className="mt-8 text-4xl font-bold">Contact Information</h2>
