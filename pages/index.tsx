@@ -75,7 +75,7 @@ const homePage: NextPage<listingsProps> = ({ listings }) => {
 
         <div className="w-full flex flex-1 flex-col text-center items-center justify-center">
           <h2 id="listings" className="mt-8 mb-10 font-semibold text-4xl">Active Listings</h2>
-          <div className="overflow-hidden w-full max-w-full mb-20 mx-2 text-xl flex flex-row flex-wrap gap-x-8 gap-y-8 text-center items-top justify-center">
+          <div className="overflow-hidden w-full max-w-full pb-10 mb-10 mx-2 text-xl flex flex-row flex-wrap gap-x-8 gap-y-8 text-center items-top justify-center">
             {listings
               .slice(1)
               .map(({ address, city, price, description, image1, image2, image3, image4, image5, image6, image7, image8, image9, image10 }) => (
