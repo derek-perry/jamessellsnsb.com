@@ -1,7 +1,15 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  swcMinify: true,
+  crossOrigin: 'anonymous',
   images: {
-    domains: ['localhost', 'jamessellsnsb.com'],
+    domains: ['localhost', 'jamessellsnsb.com', 'cdninstagram.com', 'scontent.cdninstagram.com', 'fbcdn.net', 'instagram.ftpa1-1.fna.fbcdn.net'],
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "**"
+      }
+    ]
   },
   reactStrictMode: true,
   async redirects() {
@@ -19,6 +27,36 @@ const nextConfig = {
       {
         "source": "/homepage",
         "destination": "/",
+        "permanent": true
+      },
+      {
+        "source": "/listings",
+        "destination": "/#listings",
+        "permanent": true
+      },
+      {
+        "source": "/forsale",
+        "destination": "/#listings",
+        "permanent": true
+      },
+      {
+        "source": "/for-sale",
+        "destination": "/#listings",
+        "permanent": true
+      },
+      {
+        "source": "/selling",
+        "destination": "/#listings",
+        "permanent": true
+      },
+      {
+        "source": "/homes",
+        "destination": "/#listings",
+        "permanent": true
+      },
+      {
+        "source": "/houses",
+        "destination": "/#listings",
         "permanent": true
       },
       {
