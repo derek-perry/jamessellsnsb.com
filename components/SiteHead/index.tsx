@@ -39,13 +39,13 @@ const SiteHead: FC<ISiteHeadProps> = ({
       <link rel="canonical" href={process.env.NEXT_PUBLIC_SITE_URL || 'https://jamessellsnsb.com'} />
 
       <link rel="icon" href={process.env.NEXT_PUBLIC_SITE_URL + '/favicon.ico' || 'https://jamessellsnsb.com/favicon.ico'} />
-      <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#2d89ef" />
+      <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#0891b2" />
       <link rel="manifest" href={process.env.NEXT_PUBLIC_SITE_URL + '/manifest.webmanifest' || 'https://jamessellsnsb.com/manifest.webmanifest'} />
       <meta name="apple-mobile-web-app-title" content="James Sells NSB" />
       <meta name="application-name" content="James Sells NSB" />
-      <meta name="msapplication-TileColor" content="#018bcc" />
+      <meta name="msapplication-TileColor" content="#0891b2" />
       <meta name="msapplication-TileImage" content={process.env.NEXT_PUBLIC_SITE_URL + '/mstile-144x144.png' || 'https://jamessellsnsb.com/mstile-144x144.png'} />
-      <meta name="theme-color" content="#2d89ef" />
+      <meta name="theme-color" content="#ffffff" />
     </Head>
   )
 }

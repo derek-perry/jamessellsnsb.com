@@ -16,7 +16,7 @@ const ButtonExternal: FC<IButtonExternalProps> = ({
 }): JSX.Element => {
   return (
     <Link href={href} title={title} target="_blank" rel="noopener noreferrer" className={"text-center text-white group " + className}>
-      <div className="rounded bg-[#252162] group-focus:bg-sky-800 group-hover:bg-cyan-600 py-8 px-10 text-2xl transition-all motion-reduce:transition-none motion-reduce:hover:transform-none">{children}</div>
+      <div className="rounded bg-cyan-900 group-focus:bg-cyan-800 group-hover:bg-cyan-700 py-8 px-10 text-2xl transition-all motion-reduce:transition-none motion-reduce:hover:transform-none">{children}</div>
     </Link>
   )
 }

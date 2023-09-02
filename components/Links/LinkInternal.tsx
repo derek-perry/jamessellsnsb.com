@@ -17,7 +17,7 @@ const LinkInternal: FC<ILinkInternalProps> = ({
   const linkBase = process.env.NEXT_PUBLIC_SITE_URL || ""
 
   return (
-    <Link href={linkBase + '/' + href || './' + href} title={title} className={"underline text-sky-600 focus:text-slate-500 hover:text-slate-400 hover:no-underline " + className + " transition-all motion-reduce:transition-none motion-reduce:hover:transform-none"}>
+    <Link href={linkBase + '/' + href || './' + href} title={title} className={"underline text-cyan-600 focus:text-cyan-800 hover:text-slate-400 hover:no-underline " + className + " transition-all motion-reduce:transition-none motion-reduce:hover:transform-none"}>
       {children}
     </Link>
   )
