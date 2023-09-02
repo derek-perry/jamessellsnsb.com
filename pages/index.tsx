@@ -1,5 +1,5 @@
 import Reac from 'react';
-import type { GetStaticProps, NextPage } from 'next'
+import type { GetServerSideProps, NextPage } from 'next'
 import Image from 'next/image'
 import SiteHead from "../components/SiteHead"
 import PageFooter from "../components/PageFooter"
@@ -102,13 +102,12 @@ const homePage: NextPage<listingsProps> = ({ listings }) => {
 
 export default homePage
 
-export const getStaticProps: GetStaticProps = async () => {
+export const getServerSideProps: GetServerSideProps = async () => {
   const listings = await getListings();
 
   return {
     props: {
       listings
-    },
-    revalidate: 1
+    }
   };
 }
