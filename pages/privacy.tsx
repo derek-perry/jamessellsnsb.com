@@ -13,7 +13,7 @@ const privacyPage: NextPage = () => {
       <main className="py-9 px-9 max-w-[1000px] w-full flex flex-1 flex-col items-center justify-center">
         <article id="policy">
           <section id="contentheader" className="py-9 mb-4">
-            <h1 className="mb-4 text-6xl font-bold">JamesSellsNSB.com Privacy Policy</h1>
+            <h1 className="mb-4 text-6xl font-bold max-sm:break-all">JamesSellsNSB.com Privacy Policy</h1>
             <ButtonInternal className="mt-4 mb-8" href="" title="Go Back to Homepage of James Cumiskey">Go Home</ButtonInternal>
           </section>
 
@@ -55,11 +55,11 @@ const privacyPage: NextPage = () => {
 
               <h2 id="changes" className="mt-8 text-4xl font-bold">Privacy Policy Changes</h2>
               <p className="my-4 text-2xl">Although most changes to <LinkInternal href="" title="James Sells NSB">JamesSellsNSB.com</LinkInternal> are likely to be minor, James Cumiskey may change this Privacy Policy from time to time, and in James Cumiskey’s sole discretion. James Cumiskey encourages users to frequently check this page for any changes to this Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p>
-              <p className="my-4 text-2xl"><i>This Privacy Policy was last updated on August 31, 2023. Visit the <LinkExternal href="https://github.com/derek-perry/jamessellsnsb" title="View the website files for JamesSellsNSB on GitHub">website files on GitHub</LinkExternal> for version history.</i></p>
+              <p className="my-4 text-2xl"><i>This Privacy Policy was last updated on September 2, 2023. Visit the <LinkExternal href="https://github.com/derek-perry/jamessellsnsb" title="View the website files for JamesSellsNSB on GitHub">website files on GitHub</LinkExternal> for version history.</i></p>
 
 
               <h2 id="contact-info" className="mt-8 text-4xl font-bold">Contact Information</h2>
-              <p className="my-4 text-2xl">If you have any questions about this Privacy Policy, please contact James Cumiskey via email at <LinkExternal className="break-all" href="mailto:contact@jamessellsnsb.com" title="Contact James Cumiskey via Email at Contact@JamesSellsNSB.com">Contact@JamesSellsNSB.com</LinkExternal></p>
+              <p className="my-4 text-2xl">If you have any questions about this Privacy Policy, please contact James Cumiskey via email at <LinkExternal className="max-sm:break-all" href="mailto:contact@jamessellsnsb.com" title="Contact James Cumiskey via Email at Contact@JamesSellsNSB.com">Contact@JamesSellsNSB.com</LinkExternal></p>
           </section>
         </article>
       </main>
