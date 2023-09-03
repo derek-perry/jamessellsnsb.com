@@ -1,4 +1,4 @@
-import Reac from 'react';
+import React from 'react';
 import type { GetServerSideProps, NextPage } from 'next'
 import Image from 'next/image'
 import SiteHead from "../components/SiteHead"
@@ -78,7 +78,7 @@ const homePage: NextPage<listingsProps> = ({ listings }) => {
           </div>
         </section>
 
-        <section id="listings" className="w-full flex flex-1 flex-col text-center items-center justify-center">
+        {/*<section id="listings" className="w-full flex flex-1 flex-col text-center items-center justify-center">
           <h2 className="px-9 mt-8 mb-10 font-semibold text-4xl">Featured Local Listings</h2>
           <div className="overflow-hidden w-full max-w-full pb-10 mb-10 px-4 text-xl flex flex-row flex-wrap gap-x-8 gap-y-8 text-center items-top justify-center">
             {listings
@@ -97,7 +97,7 @@ const homePage: NextPage<listingsProps> = ({ listings }) => {
                 </article>
               ))}
           </div>
-        </section>
+        </section>*/}
       </main>
 
       <PageFooter />
