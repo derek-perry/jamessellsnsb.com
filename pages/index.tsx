@@ -79,7 +79,7 @@ const homePage: NextPage<listingsProps> = ({ listings }) => {
         </section>
 
         <section id="listings" className="w-full flex flex-1 flex-col text-center items-center justify-center">
-          <h2 className="px-9 mt-8 mb-10 font-semibold text-4xl">Active Listings</h2>
+          <h2 className="px-9 mt-8 mb-10 font-semibold text-4xl">Featured Local Listings</h2>
           <div className="overflow-hidden w-full max-w-full pb-10 mb-10 px-4 text-xl flex flex-row flex-wrap gap-x-8 gap-y-8 text-center items-top justify-center">
             {listings
               .slice(1)
