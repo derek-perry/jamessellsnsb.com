@@ -7,14 +7,14 @@ _[Website; NEXT.js; Tailwind CSS]_
 ### Links
 - **Website:** [JamesSellsNSB.com](https://JamesSellsNSB.com "Visit the website for JamesSellsNSB at JamesSellsNSB.com")
 - **Privacy Policy:** [JamesSellsNSB.com/privacy](https://JamesSellsNSB.com/privacy "Visit the privacy policy for JamesSellsNSB at JamesSellsNSB.com/privacy")
-- **Website GitHub:** [github.com/derek-perry/jamessellsnsb](https://github.com/derek-perry/jamessellsnsb "Visit the GitHub for the JamesSellsNSB Website at github.com/derek-perry/jamessellsnsb")
+- **Website GitHub:** [github.com/derek-perry/jamessellsnsb.com](https://github.com/derek-perry/jamessellsnsb.com "Visit the GitHub for the JamesSellsNSB Website at github.com/derek-perry/jamessellsnsb")
 
 ---
 
 ### Website License Information
 **Copyright 2023 JamesSellsNSB TM**
 **Some rights reserved.**
-Use of [the code for JamesSellsNSB's website](https://github.com/derek-perry/jamessellsnsb "Visit the GitHub for the JamesSellsNSB Website at github.com/derek-perry/jamessellsnsb") is licensed under the [MIT License](https://mit.edu/~amini/LICENSE.md "View the Official MIT License at mit.edu/~amini/LICENSE.md") (see below for more details).
+Use of [the code for JamesSellsNSB's website](https://github.com/derek-perry/jamessellsnsb.com "Visit the GitHub for the JamesSellsNSB Website at github.com/derek-perry/jamessellsnsb.com") is licensed under the [MIT License](https://mit.edu/~amini/LICENSE.md "View the Official MIT License at mit.edu/~amini/LICENSE.md") (see below for more details).
 
 **Font**
 - [Yrsa](https://fonts.google.com/specimen/Yrsa "View Yrsa on Google Fonts")
