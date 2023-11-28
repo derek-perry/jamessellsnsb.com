@@ -7,7 +7,7 @@ _[Website; NEXT.js; Tailwind CSS]_
 ### Links
 - **Website:** [JamesSellsNSB.com](https://JamesSellsNSB.com "Visit the website for JamesSellsNSB at JamesSellsNSB.com")
 - **Privacy Policy:** [JamesSellsNSB.com/privacy](https://JamesSellsNSB.com/privacy "Visit the privacy policy for JamesSellsNSB at JamesSellsNSB.com/privacy")
-- **Website GitHub:** [github.com/derek-perry/jamessellsnsb.com](https://github.com/derek-perry/jamessellsnsb.com "Visit the GitHub for the JamesSellsNSB Website at github.com/derek-perry/jamessellsnsb")
+- **Website GitHub:** [github.com/derek-perry/jamessellsnsb.com](https://github.com/derek-perry/jamessellsnsb.com "Visit the GitHub for the JamesSellsNSB Website at github.com/derek-perry/jamessellsnsb.com")
 
 ---
 
