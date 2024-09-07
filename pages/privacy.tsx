@@ -5,7 +5,7 @@ import LinkInternal from "../components/Links/LinkInternal"
 import LinkExternal from "../components/Links/LinkExternal"
 import ButtonInternal from "../components/Buttons/ButtonInternal"
 
-const privacyPage: NextPage = () => {
+const PrivacyPage: NextPage = () => {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center">
       <SiteHead title="James Sells NSB Privacy Policy" description="James Sells NSB is the official website for Realtor James Cumiskey of New Smyrna Beach. James Cumiskey respects your privacy and your personal data." url="privacy" />
@@ -69,4 +69,4 @@ const privacyPage: NextPage = () => {
   )
 }
 
-export default privacyPage
+export default PrivacyPage

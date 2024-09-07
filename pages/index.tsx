@@ -4,7 +4,7 @@ import SiteHead from "../components/SiteHead"
 import PageFooter from "../components/PageFooter"
 import LinkExternal from "../components/Links/LinkExternal"
 
-const homePage: NextPage = () => {
+const HomePage: NextPage = () => {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center">
       <SiteHead title="James Sells NSB" description="James Sells NSB is the official website for Realtor James Cumiskey of New Smyrna Beach." url="" />
@@ -47,4 +47,4 @@ const homePage: NextPage = () => {
   )
 }
 
-export default homePage
+export default HomePage
